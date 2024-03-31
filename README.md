@@ -40,13 +40,13 @@
 
 `make install`
 
-![Screenshot 2024-03-31 at 14.49.33.png](CPP_SmartCalcV2%2091dddd3091d247c8beec682a133c21c0/Screenshot_2024-03-31_at_14.49.33.png)
+![Screenshot 2024-03-31 at 14.49.33.png](Screenshot%202024-03-31%20at%2015.29.00.png)
 
 Шаг 2: Выбор операции
 
 Выберите тип операции, которую вы хотите выполнить. ``
 
-![Screenshot 2024-03-31 at 13.33.14.png](CPP_SmartCalcV2%2091dddd3091d247c8beec682a133c21c0/Screenshot_2024-03-31_at_13.33.14.png)
+![Screenshot 2024-03-31 at 13.33.14.png](Screenshot%202024-03-31%20at%2013.33.14.png)
 
 Шаг 3: Ввод чисел
 
